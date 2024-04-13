@@ -1,0 +1,1 @@
+2024-04-13 09:34:57.506281: Function example_function, Time: 2.002817153930664 seconds 
