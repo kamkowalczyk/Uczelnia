@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\bin\Debug\net8.0\Searching the Graph.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\bin\Debug\net8.0\Searching the Graph.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\bin\Debug\net8.0\Searching the Graph.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\bin\Debug\net8.0\Searching the Graph.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\bin\Debug\net8.0\Searching the Graph.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\refint\Searching the Graph.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\Searching the Graph.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Searching the Graph\Searching the Graph\obj\Debug\net8.0\ref\Searching the Graph.dll

@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\bin\Debug\net8.0\Rysowanie GRAFU.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\bin\Debug\net8.0\Rysowanie GRAFU.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\bin\Debug\net8.0\Rysowanie GRAFU.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\bin\Debug\net8.0\Rysowanie GRAFU.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\bin\Debug\net8.0\Rysowanie GRAFU.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\refint\Rysowanie GRAFU.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\Rysowanie GRAFU.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Rysowanie GRAFU\Rysowanie GRAFU\obj\Debug\net8.0\ref\Rysowanie GRAFU.dll

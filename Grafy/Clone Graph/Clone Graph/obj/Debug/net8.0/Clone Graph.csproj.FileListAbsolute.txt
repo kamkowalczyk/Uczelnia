@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\bin\Debug\net8.0\Clone Graph.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\bin\Debug\net8.0\Clone Graph.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\bin\Debug\net8.0\Clone Graph.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\bin\Debug\net8.0\Clone Graph.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\bin\Debug\net8.0\Clone Graph.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\refint\Clone Graph.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\Clone Graph.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Clone Graph\Clone Graph\obj\Debug\net8.0\ref\Clone Graph.dll

@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\bin\Debug\net8.0\Water among Cubes.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\bin\Debug\net8.0\Water among Cubes.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\bin\Debug\net8.0\Water among Cubes.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\bin\Debug\net8.0\Water among Cubes.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\bin\Debug\net8.0\Water among Cubes.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\refint\Water among Cubes.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\Water among Cubes.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Water among Cubes\Water among Cubes\obj\Debug\net8.0\ref\Water among Cubes.dll

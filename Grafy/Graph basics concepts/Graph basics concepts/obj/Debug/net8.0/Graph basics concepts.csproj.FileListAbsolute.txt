@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\bin\Debug\net8.0\Graph basics concepts.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\bin\Debug\net8.0\Graph basics concepts.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\bin\Debug\net8.0\Graph basics concepts.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\bin\Debug\net8.0\Graph basics concepts.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\bin\Debug\net8.0\Graph basics concepts.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\refint\Graph basics concepts.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\Graph basics concepts.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Graph basics concepts\Graph basics concepts\obj\Debug\net8.0\ref\Graph basics concepts.dll
