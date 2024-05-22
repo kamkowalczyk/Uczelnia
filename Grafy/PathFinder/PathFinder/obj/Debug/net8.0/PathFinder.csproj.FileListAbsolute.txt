@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\bin\Debug\net8.0\PathFinder.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\bin\Debug\net8.0\PathFinder.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\bin\Debug\net8.0\PathFinder.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\bin\Debug\net8.0\PathFinder.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\bin\Debug\net8.0\PathFinder.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\refint\PathFinder.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\PathFinder.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\PathFinder\PathFinder\obj\Debug\net8.0\ref\PathFinder.dll

@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\bin\Debug\net8.0\TaskAllocation.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\bin\Debug\net8.0\TaskAllocation.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\bin\Debug\net8.0\TaskAllocation.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\bin\Debug\net8.0\TaskAllocation.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\bin\Debug\net8.0\TaskAllocation.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\refint\TaskAllocation.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\TaskAllocation.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TaskAllocation\TaskAllocation\obj\Debug\net8.0\ref\TaskAllocation.dll

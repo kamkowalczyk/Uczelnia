@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\bin\Debug\net8.0\TravelingSalesman.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\bin\Debug\net8.0\TravelingSalesman.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\bin\Debug\net8.0\TravelingSalesman.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\bin\Debug\net8.0\TravelingSalesman.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\bin\Debug\net8.0\TravelingSalesman.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\refint\TravelingSalesman.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\TravelingSalesman.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\TravelingSalesman\TravelingSalesman\obj\Debug\net8.0\ref\TravelingSalesman.dll

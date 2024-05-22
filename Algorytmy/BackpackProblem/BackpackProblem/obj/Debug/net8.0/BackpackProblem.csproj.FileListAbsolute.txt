@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\bin\Debug\net8.0\BackpackProblem.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\bin\Debug\net8.0\BackpackProblem.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\bin\Debug\net8.0\BackpackProblem.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\bin\Debug\net8.0\BackpackProblem.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\bin\Debug\net8.0\BackpackProblem.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\refint\BackpackProblem.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\BackpackProblem.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\BackpackProblem\BackpackProblem\obj\Debug\net8.0\ref\BackpackProblem.dll
