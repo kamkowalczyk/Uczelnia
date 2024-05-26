@@ -67,7 +67,7 @@
         {
             totalDistance += distances[path[i], path[i + 1]];
         }
-        totalDistance += distances[path[numberOfCities - 1], path[0]]; // Return to start
+        totalDistance += distances[path[numberOfCities - 1], path[0]];
         return totalDistance;
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\bin\Debug\net8.0\FOXLINGS - Foxlings.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\bin\Debug\net8.0\FOXLINGS - Foxlings.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\bin\Debug\net8.0\FOXLINGS - Foxlings.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\bin\Debug\net8.0\FOXLINGS - Foxlings.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\bin\Debug\net8.0\FOXLINGS - Foxlings.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\refint\FOXLINGS - Foxlings.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\FOXLINGS - Foxlings.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\FOXLINGS - Foxlings\FOXLINGS - Foxlings\obj\Debug\net8.0\ref\FOXLINGS - Foxlings.dll

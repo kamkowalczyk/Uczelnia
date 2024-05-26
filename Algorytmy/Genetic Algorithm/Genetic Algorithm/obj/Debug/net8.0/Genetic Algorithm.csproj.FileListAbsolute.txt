@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\bin\Debug\net8.0\Genetic Algorithm.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\bin\Debug\net8.0\Genetic Algorithm.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\bin\Debug\net8.0\Genetic Algorithm.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\bin\Debug\net8.0\Genetic Algorithm.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\bin\Debug\net8.0\Genetic Algorithm.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\refint\Genetic Algorithm.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\Genetic Algorithm.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Algorytmy\Genetic Algorithm\Genetic Algorithm\obj\Debug\net8.0\ref\Genetic Algorithm.dll

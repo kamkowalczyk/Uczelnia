@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Inventing Test Data/1.0.0": {
+        "runtime": {
+          "Inventing Test Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventing Test Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

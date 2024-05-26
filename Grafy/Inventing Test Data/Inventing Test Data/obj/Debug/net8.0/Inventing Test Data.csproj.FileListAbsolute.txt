@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\bin\Debug\net8.0\Inventing Test Data.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\bin\Debug\net8.0\Inventing Test Data.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\bin\Debug\net8.0\Inventing Test Data.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\bin\Debug\net8.0\Inventing Test Data.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\bin\Debug\net8.0\Inventing Test Data.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\refint\Inventing Test Data.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\Inventing Test Data.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\Inventing Test Data\Inventing Test Data\obj\Debug\net8.0\ref\Inventing Test Data.dll
