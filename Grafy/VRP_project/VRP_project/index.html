@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>VRP Solution Visualization</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+    <h1>VRP Solution Visualization</h1>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map').setView([50.0647, 19.9450], 13);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+
+        var routes = [
+            [[50.0647, 19.9450], [50.0678, 19.9123], [50.0617, 19.9388], [50.0647, 19.9450]],
+            [[50.0647, 19.9450], [50.0556, 19.9276], [50.0712, 19.9038], [50.0647, 19.9450]],
+            [[50.0647, 19.9450], [50.0483, 19.9456], [50.0355, 19.9812], [50.0647, 19.9450]]
+        ];
+
+        routes.forEach(function(route) {
+            var latlngs = route.map(function(coord) {
+                return [coord[0], coord[1]];
+            });
+            L.polyline(latlngs, { color: 'blue' }).addTo(map);
+        });
+    </script>
+</body>
+</html>

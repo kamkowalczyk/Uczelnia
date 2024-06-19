@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZhA1HJGF4ap+DIK5cq4VFsDY6eza8T2uDWnfbEy2kvn1pqE52i7bV1JcyNfeIoYN1UrH7ntfqaHC8xrSxg+TOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamil Kowalczyk\\OneDrive\\Pulpit\\Uczelnia\\Grafy\\VRP_project\\VRP_project\\VRP_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\google.ortools\\9.10.4067\\google.ortools.9.10.4067.nupkg.sha512",
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.10.4067\\google.ortools.runtime.linux-arm64.9.10.4067.nupkg.sha512",
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.10.4067\\google.ortools.runtime.linux-x64.9.10.4067.nupkg.sha512",
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.10.4067\\google.ortools.runtime.osx-arm64.9.10.4067.nupkg.sha512",
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.10.4067\\google.ortools.runtime.osx-x64.9.10.4067.nupkg.sha512",
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.10.4067\\google.ortools.runtime.win-x64.9.10.4067.nupkg.sha512",
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
+    "C:\\Users\\Kamil Kowalczyk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
