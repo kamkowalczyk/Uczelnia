@@ -1,0 +1,15 @@
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\bin\Debug\net8.0\BinaryMatrix.exe
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\bin\Debug\net8.0\BinaryMatrix.deps.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\bin\Debug\net8.0\BinaryMatrix.runtimeconfig.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\bin\Debug\net8.0\BinaryMatrix.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\bin\Debug\net8.0\BinaryMatrix.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.AssemblyInfoInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.AssemblyInfo.cs
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.sourcelink.json
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\refint\BinaryMatrix.dll
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.pdb
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\BinaryMatrix.genruntimeconfig.cache
+C:\Users\Kamil Kowalczyk\OneDrive\Pulpit\Uczelnia\Grafy\BinaryMatrix\BinaryMatrix\obj\Debug\net8.0\ref\BinaryMatrix.dll
